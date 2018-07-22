@@ -18,9 +18,6 @@ Android 端要求 Android Jelly Bean, v16, 4.1.x 及以上(目前我司 Android 
 不推荐在平板上使用,目前不支持 wear
 目前不支持 web 与 桌面端<br />
 
-#### 软件架构
-软件架构说明
-
 
 #### 安装教程
 1.安装好Flutter<br />
