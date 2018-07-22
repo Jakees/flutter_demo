@@ -1,5 +1,5 @@
 # flutter_demo
-Flutter项目demo（精简版）
+Flutter项目demo（精简版（-----此工程在AndroidStudio下完成------））
 简介：<br />
     开发语言：Dart<br />
     操作系统：跨平台（多平台、可移植的UI工具包支持高效应用开发）<br />
