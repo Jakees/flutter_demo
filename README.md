@@ -1,5 +1,5 @@
 # flutter_demo
-Flutter项目demo（精简版（-----此工程在AndroidStudio下完成------））
+Flutter项目demo（精简版（-----此工程在AndroidStudio下完成------））<br />
 简介：<br />
     开发语言：Dart<br />
     操作系统：跨平台（多平台、可移植的UI工具包支持高效应用开发）<br />
@@ -14,7 +14,7 @@ Flutter 设备要求
 支持 win Mac Linux 三端.集成 iOS 应用要求 Xcode.<br />
 终端设备：<br />
 iOS 端要求 64 位设备.iOS 8 及以上
-Android 端要求 Android Jelly Bean, v16, 4.1.x 及以上(目前我司 Android 端开发时最低支持 Kitkat, v19, 4.4.x )
+Android 端要求 Android Jelly Bean, v16, 4.1.x 及以上
 不推荐在平板上使用,目前不支持 wear
 目前不支持 web 与 桌面端<br />
 
