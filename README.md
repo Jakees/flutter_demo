@@ -24,7 +24,6 @@ Android 端要求 Android Jelly Bean, v16, 4.1.x 及以上(目前我司 Android 
 2.安装Dart SDK<br />
 3.开发工具AndroidStudio, VS, XCode配置Flutter环境（此工程在AndroidStudio下完成）
 #### 截图：<br />
-![image1](http://chuantu.biz/t6/347/1532228642x-1566638147.png)
-![image1](img_url)
-![image1](img_url)
-![image1](img_url)
+![image1](http://chuantu.biz/t6/347/1532228909x-1404792921.png)
+![image1](http://chuantu.biz/t6/347/1532228946x-1404792921.png)
+![image1](http://chuantu.biz/t6/347/1532228963x-1404792921.png)
