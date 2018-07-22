@@ -1,5 +1,7 @@
 # flutter_demo
 Flutter项目demo（精简版（-----此工程在AndroidStudio下完成------））<br />
+Flutter跨平台中文网站（国内翻译，未全部翻译）：https://flutterchina.club/<br />
+Flutter跨平台英文网站：https://flutter.io/<br />
 简介：<br />
     开发语言：Dart<br />
     操作系统：跨平台（多平台、可移植的UI工具包支持高效应用开发）<br />
