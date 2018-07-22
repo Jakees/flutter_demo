@@ -1,0 +1,14 @@
+﻿简介：
+    开发语言：Dart
+    操作系统：跨平台（多平台、可移植的UI工具包支持高效应用开发）
+    平台提供：Google
+
+Flutter 的主要组件（通过Flutter创建高性能Android和IOS移动应用）:
+
+1.一个高度优化， mobile-first 2D 渲染引擎 (保护对 text 优秀的支持 )
+
+2.一个 functional-reactive 框架 (可选的，你也可以引入你自己的框架)
+
+3.一组 Material Design 部件 (可选的，你也可以引入你自己的部件)库 ，工具，和一个用于 Atom 的插件
+
+4.编辑于remote branch dev_1.0（编辑于origin 本地）
